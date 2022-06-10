@@ -1,4 +1,4 @@
-% Task 1 - Test
+% Task 1 - (testing)
 % Assignment example grammar
 
 /***
@@ -81,7 +81,6 @@ np(CASE) --> pro(CASE).
 vp --> vi. 
 vp --> vt(_), np(obj).
 vp --> vt(adj), a.
-
 
 % Dictionary 
 det(m) --> [der]. 
